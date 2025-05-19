@@ -19,6 +19,9 @@
   "files": [
     "dist"
   ],
+  "engines": {
+    "node": ">=16.14.0 <=18.x"
+  },
   "n8n": {
     "credentials": [
       "dist/credentials/ActionNetworkApi.credentials.js",
